@@ -45,7 +45,7 @@ The dashboard helps in deriving meaningful business insights and supports data-d
 
 ## 📷 Dashboard Preview
 
-(Add 2–3 screenshots of your dashboard here)
+https://drive.google.com/file/d/1hZwIh5sAGStzZySgX4lWhHzOnt04W7wu/view?usp=sharing
 
 ---
 
