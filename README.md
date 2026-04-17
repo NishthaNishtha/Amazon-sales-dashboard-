@@ -49,14 +49,6 @@ https://drive.google.com/file/d/1hZwIh5sAGStzZySgX4lWhHzOnt04W7wu/view?usp=shari
 
 ---
 
-## 📁 Files Included
-
-* `Amazon Sales Dashboard.pbix` – Power BI file
-* `Dataset.xlsx` – Raw dataset
-* `README.md` – Project documentation
-
----
-
 ## 🚀 How to Use
 
 1. Download the `.pbix` file
